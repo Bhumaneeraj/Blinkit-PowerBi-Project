@@ -1,5 +1,6 @@
 ##Customer Ratings & Feedback Analysis Dashboard (Power BI)
 
+---
 This project analyzes customer ratings and feedback to understand overall customer satisfaction and identify areas that need improvement.
 
 The dashboard combines star ratings, sentiment (positive or negative), and written feedback to show how customers feel about different service areas such as delivery, customer service, app experience, and product quality.
