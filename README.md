@@ -1,4 +1,4 @@
-##Customer Ratings & Feedback Analysis Dashboard (Power BI)##
+##Customer Ratings & Feedback Analysis Dashboard (Power BI)
 
 This project analyzes customer ratings and feedback to understand overall customer satisfaction and identify areas that need improvement.
 
